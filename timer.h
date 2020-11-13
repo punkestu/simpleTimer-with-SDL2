@@ -1,5 +1,5 @@
-#ifndef __MAIN_H__
-#define __MAIN_H__
+#ifndef TIMER___
+#define TIMER___
 
 #include <windows.h>
 #include <SDL.h>
